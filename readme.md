@@ -12,4 +12,4 @@ It's a basic app that tells you whether your birthdate is lucky or not. Lucky in
 
   # Live Project
 
-  [LIVE URL](https://lucky-birthdayapp-neogcamp.netlify.app/)
+  [LIVE URL](https://luckynumber-app.netlify.app/)
